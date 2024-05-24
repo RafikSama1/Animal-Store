@@ -1,6 +1,6 @@
 /* ------ Package import ------*/
 const express = require('express');
-const mongoose = reauire('mongoose');
+const mongoose = require('mongoose');
 
 /* ------ initialization ------*/
 const app = express();
